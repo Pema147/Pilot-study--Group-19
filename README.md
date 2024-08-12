@@ -2,6 +2,7 @@
 Learning experience with AWS-a pilot study
 TEAM CHARTER
 Roles/Responsibilities 
+
 Wangchu - Co-ordinator
 She arranges meetings with the sponsor and mentor, strategically prepares and executes tasks to coordinate the team's efforts for optimal effectiveness. She oversees the project's progress, ensuring it aligns with the objectives. Wangchu also coordinates with all team members, facilitates regular meetings, manages the project timeline and deliverables, and acts as the primary point of contact for stakeholders.
 
